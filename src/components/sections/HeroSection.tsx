@@ -128,7 +128,7 @@ export default function HeroSection() {
               src="https://images.unsplash.com/photo-1606813907291-d86efa9b94db?w=1600"
               alt="Premium Gaming Setup Room"
               fill
-              className="object-cover transition-transform duration-[2000ms] group-hover:scale-105"
+              className="object-cover transition-transform duration-[2s] group-hover:scale-105"
               priority
             />
             {/* Dark fade layers */}
